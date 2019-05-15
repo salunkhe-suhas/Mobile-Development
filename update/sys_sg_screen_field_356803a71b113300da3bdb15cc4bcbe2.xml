@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>state</data_item_field_name>
+        <hidden>false</hidden>
+        <order>90</order>
+        <screen display_value="Details">b2074b271b113300da3bdb15cc4bcba4</screen>
+        <screen_data_item_table>sn_hr_core_case</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-15 05:40:07</sys_created_on>
+        <sys_id>356803a71b113300da3bdb15cc4bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="HR Service Request" source="x_216497_hr_servic">d39dae971b913300da3bdb15cc4bcb20</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HR Service Request">d39dae971b913300da3bdb15cc4bcb20</sys_scope>
+        <sys_update_name>sys_sg_screen_field_356803a71b113300da3bdb15cc4bcbe2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-15 05:40:07</sys_updated_on>
+        <type>auto</type>
+    </sys_sg_screen_field>
+</record_update>
